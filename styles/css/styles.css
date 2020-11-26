@@ -1,0 +1,16 @@
+/* 
+
+README PLEAAAAAAAAAASE!!!
+This is our css file where we will apply our custom design to html tags
+Please start by commenting your name before working on this file
+See the basic example with the body tag
+
+*/
+
+/* DESGIN OF THE BODY, DONE BY ADMIN & SECOND ADMIN*/
+
+body{
+    margin: 0px;
+    padding: 0px;
+    background-color: aliceblue;
+}
